@@ -13,7 +13,7 @@ username2\
 etc.\
 no commas or special characters.\
 6- Run the script by typing "python main.py" in the terminal.\
-7- The results are going to be printed on the screen and the available usernames are going to be extracted on a file called "hits.txt" in your directory.\
+7- The results are going to be printed on the screen and the available usernames are going to be extracted on a file called "hits.txt" in your directory.
 
 Thanks for using\
 The script is an edited version of @Zmon's "OG Username Checker" on Replit (https://replit.com/@Zmon/OG-Username-Checker). I have modified the code to test only the usernames on soundcloud.\
