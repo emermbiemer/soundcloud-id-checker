@@ -36,5 +36,8 @@ def main():
     with concurrent.futures.ThreadPoolExecutor() as executor:
         executor.map(check_soundcloud, usernames)
 
+
 if __name__ == "__main__":
     main()
+    while True:
+        pass
